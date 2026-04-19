@@ -19,7 +19,7 @@ This repository documents the deployment and administration of an enterprise-gra
 * Provisioned an Ubuntu LTS server with OpenSSH for secure remote management.
 * Deployed the full Wazuh SIEM stack (Manager, Indexer, Dashboard).
 * Successfully initialized the API and established the central log aggregation database.
-* *Evidence:* [Insert your Wazuh Dashboard 0 Agents Screenshot here]
+* *Evidence:* ![Wazuh-dashboard](https://github.com/chingilik/enterprise-security-operations/blob/main/screenshots/Wazuh-dashboard.png)
 
 ### Phase 2: Administrative Segmentation & Jump Box (In Progress)
 * *Pending:* Deploying a Kali Linux Jump Box to enforce Separation of Duties.
